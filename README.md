@@ -51,7 +51,7 @@ Lite Recon is a Python-based reconnaissance tool designed to gather comprehensiv
 
 2. **Install Required Packages**:
 
-   Create a `requirements.txt` file with the following content:
+   Create a `requirements.txt` file (or use ours) with the following content:
 
    ```txt
    whois
