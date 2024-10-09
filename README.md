@@ -1,8 +1,8 @@
-# Lite Recon Documentation (Version 2.0)
+# LiteRecon Documentation (Version 2.0)
 
 ## Overview
 
-Lite Recon is a Python-based reconnaissance tool designed to gather comprehensive information about domain names and IP addresses. This updated version enhances performance, usability, and reliability by introducing multithreading, improved input validation, better error handling, and additional features like command-line arguments and logging.
+LiteRecon is a Python-based reconnaissance tool designed to gather comprehensive information about domain names and IP addresses. This updated version enhances performance, usability, and reliability by introducing multithreading, improved input validation, better error handling, and additional features like command-line arguments and logging.
 
 ---
 
@@ -110,7 +110,7 @@ python literecon.py -h
 
 ## Output
 
-Lite Recon provides a detailed report with the following sections:
+LiteRecon provides a detailed report with the following sections:
 
 - **Domain Information (WHOIS)**
 - **DNS Information**: A, MX, NS, TXT, and CNAME records.
@@ -129,7 +129,7 @@ Lite Recon provides a detailed report with the following sections:
 ## Example Output
 
 ```
-Lite Recon Report for example.com
+LiteRecon Report for example.com
 
 --> Domain Information (WHOIS)
 domain_name: example.com
@@ -159,7 +159,7 @@ country: US
 --> Emails Found
   - admin@example.com
 
-Lite Recon Done. Godspeed!
+LiteRecon Done. Godspeed!
 ```
 
 ---
@@ -206,7 +206,7 @@ Lite Recon Done. Godspeed!
 
 ## Contribution
 
-Contributions are welcome! You can submit issues or pull requests on [GitHub](https://github.com/ROGUEDSGNR/lite-recon) to improve Lite Recon.
+Contributions are welcome! You can submit issues or pull requests on [GitHub](https://github.com/ROGUEDSGNR/lite-recon) to improve LiteRecon.
 
 ---
 
@@ -248,13 +248,13 @@ For any questions or support, please contact [hello@roguedsgnr.com](mailto:hello
 ## Acknowledgements
 
 - **Open-Source Libraries**: Thanks to the developers of `whois`, `dnspython`, `requests`, `beautifulsoup4`, and `colorama`.
-- **Community Feedback**: Appreciation to users who provided feedback for improving Lite Recon.
+- **Community Feedback**: Appreciation to users who provided feedback for improving LiteRecon.
 
 ---
 
 ## Important Notes
 
-- **External Services**: Lite Recon uses external APIs (e.g., `hackertarget.com`, `ipinfo.io`) which may have usage limitations.
+- **External Services**: LiteRecon uses external APIs (e.g., `hackertarget.com`, `ipinfo.io`) which may have usage limitations.
 - **Data Accuracy**: The accuracy of the data retrieved depends on the external services and the availability of information.
 - **Privacy**: Be cautious when handling sensitive data obtained through reconnaissance.
 
@@ -268,4 +268,4 @@ For any questions or support, please contact [hello@roguedsgnr.com](mailto:hello
 
 ---
 
-By using Lite Recon, you agree to use it responsibly and ethically, respecting all applicable laws and regulations.
+By using LiteRecon, you agree to use it responsibly and ethically, respecting all applicable laws and regulations.
