@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # LiteRecon Tool
-# Developed by: [Your Name]
+# Developed by: [ROGUEDSGNR]
 # Version: 2.0
 
 import whois
