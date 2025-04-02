@@ -254,7 +254,7 @@ For any questions or support, please contact [hello@roguedsgnr.com](mailto:hello
 
 ## Important Notes
 
-- **External Services**: LiteRecon uses external APIs (e.g., `hackertarget.com`, `ipinfo.io`) which may have usage limitations.
+- **External Services**: LiteRecon uses external APIs (e.g., `hackertarget.com`, `ipinfo.io`), which may have usage limitations.
 - **Data Accuracy**: The accuracy of the data retrieved depends on the external services and the availability of information.
 - **Privacy**: Be cautious when handling sensitive data obtained through reconnaissance.
 
@@ -262,7 +262,7 @@ For any questions or support, please contact [hello@roguedsgnr.com](mailto:hello
 
 ## Contact Information
 
-- **Developer**: Your Name
+- **Developer**: яᴏɢᴜᴇ ᴅꜱɢиʀ
 - **Email**: [hello@roguedsgnr.com](mailto:hello@roguedsgnr.com)
 - **GitHub**: [github.com/ROGUEDSGNR](https://github.com/ROGUEDSGNR/)
 
