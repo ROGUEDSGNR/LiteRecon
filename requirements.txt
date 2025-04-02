@@ -1,5 +1,5 @@
 whois==0.9.13
 dnspython==2.6.1
-requests==2.26.0
+requests==2.32.2
 beautifulsoup4==4.10.0
 colorama==0.4.4
