@@ -1,5 +1,6 @@
 python-whois==0.9.6
 dnspython==2.6.1
 requests==2.33.0
+idna==3.15
 beautifulsoup4==4.10.0
 colorama==0.4.4
