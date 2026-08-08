@@ -218,7 +218,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Support
 
-For any questions or support, please contact [hello@roguedsgnr.com](mailto:hello@roguedsgnr.com)
+For any questions or support, please contact [hello@0x5244.com](mailto:hello@0x5244.com)
 
 ---
 
@@ -262,9 +262,9 @@ For any questions or support, please contact [hello@roguedsgnr.com](mailto:hello
 
 ## Contact Information
 
-- **Developer**: яᴏɢᴜᴇ ᴅꜱɢиʀ
-- **Email**: [hello@roguedsgnr.com](mailto:hello@roguedsgnr.com)
-- **GitHub**: [github.com/ROGUEDSGNR](https://github.com/ROGUEDSGNR/)
+- **Developer**: яᴏɢᴜᴇ/ᴅꜱɢиʀ
+- **Email**: [hello@0x5244.com](mailto:hello@0x5244.com)
+- **GitHub**: [github.com/0x5244](https://github.com/0x5244/)
 
 ---
 
